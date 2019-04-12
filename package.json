@@ -1,0 +1,29 @@
+{
+  "name": "dirs-in-dir",
+  "version": "1.0.2",
+  "description": "Get directories in a  directory",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/dirsInDir.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zvakanaka/dirs-in-dir.git"
+  },
+  "keywords": [
+    "get",
+    "directories",
+    "directory",
+    "dir",
+    "ls"
+  ],
+  "author": "Adam Quinton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zvakanaka/dirs-in-dir/issues"
+  },
+  "homepage": "https://github.com/zvakanaka/dirs-in-dir#readme"
+}
